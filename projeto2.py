@@ -126,5 +126,3 @@ criar_tabela()
 atualizar_lista_sequencias()
 
 root.mainloop()
-
-
